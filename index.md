@@ -10,20 +10,20 @@ I also have a dog, here's a picture of her.
 
 ### HW1: Chapter 1
 
-1.3:    What are the four important attributes that all professional software should possess? Suggest four
+        1.3:    What are the four important attributes that all professional software should possess? Suggest four
             other attributes that may sometimes be significant.
 
                 **The four attributes are: Acceptability, Dependability and security, Efficiency, Maintainability. 
                 Four additional attributes of professional software could be: Scalability, Modularity, Well-Documented, Independent (has as few dependencies)** 
 
-    1.8:    Discuss whether professional software engineers should be licensed in the same way as doctors or
+        1.8:    Discuss whether professional software engineers should be licensed in the same way as doctors or
             lawyers.
                 
                 **I do not believe they should be held to the same standards as lawyers and doctors as those two professions do their best to protect someone's life in drastic ways.
                 While software engineers do touch on very important aspects of peoples' lives and businesses, the vetting of engineers and the team aspect of the development process
                 allows for better protections for the business, something which a patient/client may not be able to do with a doctor/lawyer.** 
 
-    1.9:    For each of the clauses in the ACM/IEEE Code of Ethics shown in Figure 1.4, propose an
+        1.9:    For each of the clauses in the ACM/IEEE Code of Ethics shown in Figure 1.4, propose an
             appropriate example that illustrates that clause.
 
                 1. PUBLIC – Software engineers shall act consistently with the public interest.
@@ -58,7 +58,7 @@ I also have a dog, here's a picture of her.
 
                         **e.g. SE must not become complacent in their performance and strive to better themselves and those around them (such as suggesting new training to undergo to learn new techniques/aspects of SE)**
 
-    1.10:   To help counter terrorism, many countries are planning or have developed computer systems that
+        1.10:   To help counter terrorism, many countries are planning or have developed computer systems that
             track large numbers of their citizens and their actions. Clearly, this has privacy implications. Discuss
             the ethics of working on the development of this type of system.
 
