@@ -1,3 +1,6 @@
 # This is my current resume
 
-<img src="2020 Resume.pdf" alt="Resume">
+<img src="resume.jpg" alt="Resume">
+
+To View/Download PDF click 
+[here](2020Resume.pdf)
