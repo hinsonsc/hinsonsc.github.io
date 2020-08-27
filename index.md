@@ -5,6 +5,7 @@
 Hello! My name is Seth Hinson and I am a senior here at CofC. I made this blog to track my work during the course of my 362 class. I enjoy doing many things that involve computers, a few examples of things I do in my free time are: video games, ethical hacking, building PCs, networking, and working on my personal server.
 
 I also have a dog, here's an picture of her.
+
 <img src="luna.jpg" width="550" height="500" alt="Luna">
 
 ### HW1:
@@ -13,7 +14,7 @@ I also have a dog, here's an picture of her.
             other attributes that may sometimes be significant.
 
                 **The four attributes are: Acceptability, Dependability and security, Efficiency, Maintainability. 
-                Four additional attributes of professional software could be: Aesthetics, Modularity, Well-Documented, Independent (has as few dependencies)** 
+                Four additional attributes of professional software could be: Scalability, Modularity, Well-Documented, Independent (has as few dependencies)** 
 
     1.8:    Discuss whether professional software engineers should be licensed in the same way as doctors or
             lawyers.
