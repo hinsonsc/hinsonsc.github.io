@@ -10,4 +10,4 @@ I also have a dog, here's a picture of her.
 
 ### HW1: Chapter 1
 
-       ![Read More...](hw1.md)
+       [Read More...](hw1.md)
