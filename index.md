@@ -6,7 +6,7 @@ Hello! My name is Seth Hinson and I am a senior here at CofC. I made this blog t
 [here](https://eguthriewastaken.github.io)
 
 For those interested, click to see my
-[resume]()
+[resume](resume.md)
 
 I also have a dog, here's a picture of her.
 
