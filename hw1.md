@@ -5,7 +5,7 @@
 
                 The four attributes are: Acceptability, Dependability and security, Efficiency, Maintainability. 
                 Four additional attributes of professional software could be: Scalability, Modularity, 
-                Well-Documented, Independent (has as few dependencies) 
+                Well-Documented, Independent (has few dependencies) 
 
         1.8:    Discuss whether professional software engineers should be licensed in the same way as doctors or
             lawyers.
