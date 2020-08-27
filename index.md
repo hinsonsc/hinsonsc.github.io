@@ -8,7 +8,7 @@ I also have a dog, here's an picture of her.
 
 <img src="luna.jpg" width="550" height="500" alt="Luna">
 
-### HW1:
+### HW1: Chapter 1
 
 1.3:    What are the four important attributes that all professional software should possess? Suggest four
             other attributes that may sometimes be significant.
