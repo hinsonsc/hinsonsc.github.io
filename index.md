@@ -15,3 +15,7 @@ I also have a dog, here's a picture of her.
 ### HW1: Chapter 1
 
 [Read More...](hw1.md)
+
+### HW3: Chapters 11 and 12
+
+[Read More...](hw3.md)
