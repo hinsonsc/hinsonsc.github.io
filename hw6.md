@@ -1,7 +1,7 @@
 # Homework 6: Chapter 2
 
 
- 2.1: Suggest the most appropriate generic software process model that might be used as a basis for managing the development of the following systems. Explain your answer according to the type of system being developed:
+## 2.1: Suggest the most appropriate generic software process model that might be used as a basis for managing the development of the following systems. Explain your answer according to the type of system being developed:
 
  A system to control antilock breaking in a car
  
