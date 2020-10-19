@@ -19,3 +19,11 @@ I also have a dog, here's a picture of her.
 ### HW3: Chapters 11 and 12
 
 [Read More...](hw3.md)
+
+### HW5: Chapters 4
+
+[Read More...](hw5.md)
+
+### HW6: Chapter 2
+
+[Read More...](hw6.md)
