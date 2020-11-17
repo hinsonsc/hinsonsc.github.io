@@ -26,3 +26,23 @@ I also have a dog, here's a picture of her.
 ### HW6: Chapter 2
 
 [Read More...](hw6.md)
+
+### HW9: Chapter 8 and Reflections
+
+[Read More...](hw9.md)
+
+### HW10: Chapter 15
+
+[Read More...](hw10.md)
+
+### HW11: Chapter 9
+
+[Read More...](hw11.md)
+
+### HW13: Chapter 16
+
+[Read More...](hw13.md)
+
+### HW14: Chapter 18
+
+[Read More...](hw14.md)
