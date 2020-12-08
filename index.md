@@ -51,22 +51,18 @@ I also have a dog, here's a picture of her.
 
 [Read More...](hw15.md)
 
-### HW16: Chapter 19
+### HW16: Chapter 20
 
 [Read More...](hw16.md)
 
-### HW17: Chapter 18
+### HW17: Team Progress 1
 
 [Read More...](hw17.md)
 
-### HW18: Chapter 20
+### HW18: Chapter 21 & 22
 
 [Read More...](hw18.md)
 
-### HW20: Team Progress
+### HW20: Team Progress 2
 
 [Read More...](hw20.md)
-
-### HW21: Chapter 18
-
-[Read More...](hw21.md)
