@@ -1,4 +1,4 @@
-# Welcome to my blog for CSCI 362!
+# Welcome to my blog, it's cool (hopefully)
 
 ### Introduction
 
