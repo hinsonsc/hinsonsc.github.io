@@ -1,6 +1,6 @@
 # Welcome to my blog for CSCI 362!
 
-### HW0: Introduction
+### Introduction
 
 Hello! My name is Seth Hinson and I am a senior here at CofC and soon to be Cybersecurity consultant. This will be my blog documenting my journey through becoming a professional in the field I fell in love with only a few years ago. You can find me on [LinkedIn](https://www.linkedin.com/in/seth-hinson-cofc/) and [Twitter](https://twitter.com/scriptadulty) where I have a little more info about things in my past and also some (bad) memes.
 
