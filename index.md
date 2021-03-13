@@ -7,6 +7,6 @@ Hello! My name is Seth Hinson and I am a senior here at CofC and soon to be Cybe
 For those interested, click to see my
 [resume](resume.md)
 
-I also have a dog, here's a picture of her.
+I also have a dog her name is Luna and she is a 2.5 year old Lab(?) mix rescue, here's a picture of her.
 
 <img src="luna.jpg" width="550" height="500" alt="Luna">
